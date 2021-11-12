@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="10px" viewBox="0 0 22 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Stroke 1</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stroke-1" transform="translate(-19.000000, -25.000000)" stroke="#020203">
+            <polyline transform="translate(30.000000, 29.999501) rotate(90.000000) translate(-30.000000, -29.999501) " points="25 39.9990021 35 29.9990021 25 20"></polyline>
+        </g>
+    </g>
+</svg>

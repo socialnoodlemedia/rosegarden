@@ -1,0 +1,28 @@
+.new-whatson-section{
+    background-color: #fff6f0; padding-top:40px; padding-bottom:60px;
+}
+
+.new-whatson-head-wrapper{
+    margin-bottom:50px; margin-top:20px; text-align:center;
+}
+
+.new-whatson-heading{
+    width:100%; padding-bottom:0px; font-size:30px; text-transform:uppercase; font-weight:700;
+}
+
+.new-whatson-img{
+    height:auto; width:200px; border-radius:10px;
+}
+
+.new-whatson-grid-text{
+    margin: 0px 0px 4px;
+word-break: break-word;
+color: rgb(0, 0, 0);
+font-size: 18px;
+font-weight: 600;
+line-height: 1.33;
+overflow: hidden;
+text-overflow: ellipsis;
+-webkit-line-clamp: 2;
+-moz-box-orient: vertical;
+}
